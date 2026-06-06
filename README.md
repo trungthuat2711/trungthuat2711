@@ -1,4 +1,6 @@
-## Hi there 👋
+<a href="#" target="_blank">
+  <img src="svg/thuatcodedao.svg" width="1200" alt="thuatcodedao" />
+</a>
 
 <!--
 **trungthuat2711/trungthuat2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
